@@ -2,7 +2,7 @@ body {
     margin: 40px;
   }
   .wrapper {
-          margin: 20px;
+          margin: 0;
           display: grid;
           grid-gap: 10px;
           grid-template-columns: repeat(auto-fit, minmax(200px, 1fr) ) ;
